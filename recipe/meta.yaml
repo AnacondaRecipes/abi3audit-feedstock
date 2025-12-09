@@ -52,7 +52,7 @@ about:
   description: |
     abi3audit scans Python extensions for abi3 violations and inconsistencies.
     It can scan individual (unpackaged) shared objects, packaged wheels, or entire package version histories.
-  dev_url: https://github.com/trailofbits/abi3audit
+  dev_url: https://github.com/pypa/abi3audit
   doc_url: https://github.com/pypa/abi3audit/blob/main/README.md
   license: MIT
   license_family: MIT
